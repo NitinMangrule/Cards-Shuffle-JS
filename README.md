@@ -11,8 +11,8 @@ ES6/JS, HTML5,CSS3.
 
 1. Desktop View:
 
-![Desktop View](./images/desktop-view.png)
+![Desktop View](./images/desktop.png)
 
-2. Tablet View:
+2. Mobile View:
 
-![Tablet View](./images/tablet-filter-view.png)
+![Tablet View](./images/mobile.png)
